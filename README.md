@@ -1,6 +1,9 @@
 # studying-01-site-iphone-14-vadymprokopchuk  
 Free lesson Iphone 14 Pro Website from @vadymprokopchuk  
 
+[Youtube Video Link](https://www.youtube.com/watch?v=2dVPFVX3ZZ0)  
+[Youtube Channel Link](https://www.youtube.com/@vadymprokopchuk)  
+
 ## Notes  
 
 VSC  
